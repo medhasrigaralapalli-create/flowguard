@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚦 FlowGuard Traffic Intelligence Platform</h1>
+  <h1>FlowGuard Traffic Intelligence Platform</h1>
   <p><strong>AI-Powered Traffic Management & Event Response System</strong></p>
   <p>
     <img src="https://img.shields.io/badge/React-19.0.0-61DAFB?style=flat&logo=react" alt="React">
@@ -12,7 +12,7 @@
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Political rallies, festivals, sports events, construction activities, and sudden gatherings create localized traffic breakdowns. **FlowGuard** uses historical and real-time traffic data to forecast event-related congestion and recommend optimal manpower deployment, barricading strategies, and diversion plans.
 
@@ -20,25 +20,25 @@ Built using real **Bengaluru Traffic Police incident data** for analysis and dec
 
 ---
 
-## 📋 Overview
+## Overview
 
 **FlowGuard** is an AI-powered traffic intelligence platform that predicts and manages event-driven congestion and orchestrates real-time diversion routes, resource deployments, and policing coordination. Built with modern React and powered by Google's Gemini AI, FlowGuard provides a tactical command center for traffic administrators, field officers, and logistics managers.
 
-### ✨ Key Features
+### Key Features
 
-- 🗺️ **Interactive Map Visualization** - Real-time traffic event mapping with severity indicators
-- 🤖 **AI-Powered Insights** - Gemini AI chat advisor for predictive traffic analysis
-- 📊 **Real Data Analytics** - Built on actual Bengaluru Traffic Police dataset (March 2023 - March 2024)
-- 🚨 **Event Management System** - Create, update, and track traffic disruption events
-- 🚧 **Resource Optimization** - Deploy officers and barricades efficiently
-- 🛣️ **Diversion Planner** - Generate alternative routes during events
-- 📈 **Historical Analysis** - Traffic hotspot identification and pattern recognition
-- 🔔 **Real-time Notifications** - Alert system for critical events
-- 👥 **Role-based Access** - Admin, Officer, and Manager roles with appropriate permissions
+- **Interactive Map Visualization** - Real-time traffic event mapping with severity indicators
+- **AI-Powered Insights** - Gemini AI chat advisor for predictive traffic analysis
+- **Real Data Analytics** - Built on actual Bengaluru Traffic Police dataset (March 2023 - March 2024)
+- **Event Management System** - Create, update, and track traffic disruption events
+- **Resource Optimization** - Deploy officers and barricades efficiently
+- **Diversion Planner** - Generate alternative routes during events
+- **Historical Analysis** - Traffic hotspot identification and pattern recognition
+- **Real-time Notifications** - Alert system for critical events
+- **Role-based Access** - Admin, Officer, and Manager roles with appropriate permissions
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -89,17 +89,17 @@ Built using real **Bengaluru Traffic Police incident data** for analysis and dec
 The application includes role-based authentication. Use these demo accounts:
 
 - **Admin Account**
-  - Email: `admin@flowguard.city`
+  - Email: `admin@flowguard.gov`
   - Password: `admin123`
   - Role: Traffic Administrator (Full system access)
 
 - **Field Officer Account**
-  - Email: `officer@flowguard.city`
+  - Email: `officer@flowguard.gov`
   - Password: `officer123`
   - Role: Field Officer (Event monitoring, resource management)
 
 - **Logistics Manager Account**
-  - Email: `manager@flowguard.city`
+  - Email: `logistics@flowguard.gov`
   - Password: `manager123`
   - Role: Logistics Manager (Resource allocation, route planning)
 
