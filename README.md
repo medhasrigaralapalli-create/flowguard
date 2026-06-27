@@ -84,7 +84,7 @@ Built using real **Bengaluru Traffic Police incident data** for analysis and dec
 
 ---
 
-## � Demo Credentials
+## Demo Credentials
 
 The application includes role-based authentication. Use these demo accounts:
 
@@ -105,7 +105,7 @@ The application includes role-based authentication. Use these demo accounts:
 
 ---
 
-## �📦 Available Scripts
+## Available Scripts
 
 | Command           | Description                                           |
 | ----------------- | ----------------------------------------------------- |
@@ -118,7 +118,7 @@ The application includes role-based authentication. Use these demo accounts:
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 flowguard/
@@ -153,7 +153,7 @@ flowguard/
 
 ---
 
-## 🎯 Usage
+## Usage
 
 ### Core Workflows
 
@@ -166,7 +166,7 @@ flowguard/
 
 ---
 
-## 🧠 AI Features
+## AI Features
 
 FlowGuard integrates Google's Gemini AI to provide:
 
@@ -178,7 +178,7 @@ FlowGuard integrates Google's Gemini AI to provide:
 
 ---
 
-## 📊 Real Data Integration
+## Real Data Integration
 
 The platform is built using actual traffic incident data from **Bengaluru Traffic Police** for analysis and decision support:
 
@@ -189,7 +189,7 @@ The platform is built using actual traffic incident data from **Bengaluru Traffi
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React 19** - UI framework
@@ -213,7 +213,7 @@ The platform is built using actual traffic incident data from **Bengaluru Traffi
 
 ---
 
-## 🔒 Environment Variables
+## Environment Variables
 
 Create a `.env` file with the following:
 
@@ -230,7 +230,7 @@ Get your Gemini API key from [Google AI Studio](https://ai.google.dev/).
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 ### Production Build
 
@@ -250,7 +250,7 @@ Ensure environment variables are configured in your deployment platform.
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -275,7 +275,7 @@ npm install
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -287,13 +287,13 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
+## License
 
 This project is part of a prototype demonstration and is provided as-is for educational and development purposes.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google Gemini AI** - For powering intelligent traffic predictions
 - **Bengaluru Traffic Police** - For providing real-world traffic data
@@ -301,13 +301,13 @@ This project is part of a prototype demonstration and is provided as-is for educ
 
 ---
 
-## 📧 Support
+## Support
 
 For questions, issues, or feedback, please open an issue in the repository or contact the development team.
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ for smarter traffic management</p>
+  <p>Built with for smarter traffic management</p>
   <p><strong>FlowGuard</strong> - Tactical Traffic Intelligence Engine</p>
 </div>
